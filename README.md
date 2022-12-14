@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavekar8
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Pune
+- 👀 I’m interested in DevOps 
+- 🌱 I’m currently learning DevOps - AWS, CICD Piepline, Ansible, Git, GitHub, Jenkins, 
 - 📫 How to reach me mail me at bhavekar8@outlook.com
 
 <!---
