@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhavekar8
+- 👋 Hi, I’m Rohit Bhavekar
 - 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning DevOps - AWS, CICD Piepline, Ansible, Git, GitHub, Jenkins, 
+- 🌱 I’m currently learning DevOps - LINUX, AWS, Docker, CI/CD Piepline, Ansible, Git, GitHub, Jenkins, 
 - 📫 How to reach me mail me at bhavekar8@outlook.com
 
 <!---
