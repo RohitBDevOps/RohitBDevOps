@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhavekar</h1>
 <h3 align="center">A DevOps - Aspirant from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.1datagroup.com/wp-content/uploads/2020/12/f19d8c26e672ea8bc876ef49c210f816.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavekar8&label=Profile%20views&color=0e75b6&style=flat" alt="bhavekar8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavekar8" alt="bhavekar8" /></a> </p>
