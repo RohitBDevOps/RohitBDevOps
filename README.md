@@ -1,37 +1,21 @@
-### Hi there 👋, my name is Rohit Bhavekar
-#### I am DevOps Aspirant
-![I am DevOps Aspirant](https://media.licdn.com/dms/image/D5616AQEwMGneZ6kePA/profile-displaybackgroundimage-shrink_350_1400/0/1675753662860?e=1682553600&v=beta&t=vkUi0o6wdOQVcH_RmduCdt9L-XsiIw20d2ANF4Qvr64)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: LINUX / AWS / Cloud Computing / Shell Scripting / Docker / Jenkins / Kubernetes
-
-- 🔭 I’m currently working on Jenkins CI/CD pipelines / LINUX / AWS 
-- 🌱 I’m currently learning DevOps 
-- 🤔 I’m looking for help with DevOps Integration 
-- 💬 Ask me about I am currently working as a Associate - IT Helpdesk Infrastructure Manangement at Clean Harbors India GCC.   If you want to mail me, write me email on - bhavekar8@gmail.com OR Send me connection request. 
-- 📫 How to reach me: bhavekar8@gmail.com 
-- 😄 Pronouns: Rohit Bhaekat 
-- ⚡ Fun fact: Fun Loving Person 
+# 💫 About Me:
+🔭 I’m currently working on Jenkins CI/CD pipelines / LINUX / AWS<br>🌱 I’m currently learning DevOps<br>🤔 I’m looking for help with DevOps Integration<br>💬 Ask me about I am currently working as a Associate - IT Helpdesk Infrastructure Manangement at Clean Harbors India GCC. If you want to mail me, write me email on - bhavekar8@gmail.com OR Send me connection request.<br>📫 How to reach me: bhavekar8@gmail.com<br>😄 Pronouns: Rohit Bhavekar<br>⚡ Fun fact: Fun Loving Person
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RohitBDevOps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://rohitbhavekardevops.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bhavekar8//)  
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Rohit_DevOps_7875#6973) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_bhavekar_26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavekar8/) 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RohitBDevOps&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RohitBDevOps&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBDevOps&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/RohitBDevOps)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RohitBDevOps&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/RohitBDevOps&show_icons=true)  
+---
+[![](https://visitcount.itsvg.in/api?id=RohitBDevOps&icon=1&color=6)](https://visitcount.itsvg.in)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/RohitBDevOps)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/RohitBDevOps)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/RohitBDevOps)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/RohitBDevOps)  
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
