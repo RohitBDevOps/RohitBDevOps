@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jenkins CI/CD pipelines / LINUX / AWS / Kubenetes <br>🌱 I’m currently learning DevOps<br>🤔 I’m looking for help with DevOps Integration<br>💬 Ask me about I am currently working as a Associate - IT Helpdesk Infrastructure Manangement at Clean Harbors India GCC. If you want to mail me, write me email on - bhavekar8@gmail.com OR Send me connection request.<br>📫 How to reach me: bhavekar8@gmail.com<br>😄 Pronouns: Rohit Bhavekar<br>⚡ Fun fact: Fun Loving Person
+🔭 I’m currently working on Jenkins CI/CD pipelines / LINUX / AWS / Kubernetes <br>🌱 I’m currently learning DevOps<br>🤔 I’m looking for help with DevOps Integration<br>💬 Ask me about I am currently working as a Associate - IT Helpdesk Infrastructure Manangement at Clean Harbors India GCC. If you want to mail me, write me email on - bhavekar8@gmail.com OR Send me connection request.<br>📫 How to reach me: bhavekar8@gmail.com<br>😄 Pronouns: Rohit Bhavekar<br>⚡ Fun fact: Fun Loving Person
 
 
 ## 🌐 Socials:
